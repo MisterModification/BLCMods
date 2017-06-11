@@ -1,0 +1,3 @@
+## Removes Everything Without AMP Damage
+
+set GD_Shields.A_Item.Shield_Impact_05_Legendary ExternalAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Shield.ImpactShield_DamageBonus',ConstrainAttribute=None,ModifierType=MT_PostAdd,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance_HealthAndDamage,HealthAndDamage.Init_ShieldDamage',BaseValueScaleConstant=10.000000))
